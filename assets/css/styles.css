@@ -1,0 +1,71 @@
+body {
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+  .jumbotron{
+    background-color:#fff;
+    color:black;
+    border:5px #fff solid;
+    font-family: 'Montserrat', sans-serif;
+    font-size:40px;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px #000000;
+  }
+
+  .ride{
+    font-size:32px;
+    color:rgb(68, 68, 68);
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .panel-body{
+    border:3px #000000 solid;
+    font-family: 'Montserrat', sans-serif;
+    background:#000000;  
+    padding-bottom: 20px;
+  }
+
+  .current ,.add{
+    background-color:#000000;
+    color:white;
+    font-size:24px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding: 10px 10px 10px;
+  }
+
+  #trainTable{
+    background-color:#fff;
+    color:black;
+    font-size:20px;
+    font: bold;
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  #trainNameInput,#destinationInput,#timeInput,#frequencyInput{
+    color:black;
+    font-size:18px;
+    background-color:#fff;
+    font-family: 'Montserrat', sans-serif;
+    padding:20px;
+  }
+
+  .form-group {
+    color: white;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    background: #000000;
+    padding-top: 10px;
+    margin: auto;
+}
+
+  .btn{
+    background-color: orangered;
+    font-size:20px;
+    font-family: 'Montserrat', sans-serif;
+    margin-right:50%;
+    margin-left:50%;
+    margin-top:10px;
+  }
+  
