@@ -69,3 +69,9 @@ body {
     margin-top:10px;
   }
   
+  .table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #a318ff;
+    font-weight: 900;
+    font-family: 'Montserrat', sans-serif;
+}
